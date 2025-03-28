@@ -25,7 +25,7 @@ This project is a React application for basic user management using the Reqres A
 
 1. Clone the repository:
    
-  - git clone https://github.com/K-Lakshmi-Narayana/User-Management-App.git
+  - git clone https://github.com/K-Lakshmi-Narayana/reques.git
   - cd reques
 
 2. Install dependencies:
